@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 -->
 
-### Connect with me:
+### Connect with me: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">
 
 [<img align="left" alt="iamrajee.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://iamrajee.github.io/)
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rajendra-singh-6b0b3a13a)
