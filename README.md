@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Rajee!
-![GIF](https://github.com/iamrajee/iamrajee/raw/master/bio_final.gif)
+![Hi there wave I'm Rajee!](https://github.com/iamrajee/iamrajee/raw/master/bio_final.gif)
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
