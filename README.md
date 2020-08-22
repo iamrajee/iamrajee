@@ -1,5 +1,5 @@
 <!--![Hi there wave I'm Rajee!](https://github.com/iamrajee/iamrajee/raw/master/bio_final.gif){:class="img-responsive"}-->
-<img alt="Hi there, I'm Rajee!" src="/bio_final.gif" width="100" height="100">
+<img alt="Hi there, I'm Rajee!" src="/bio_final.gif" width="900" height="507">
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
