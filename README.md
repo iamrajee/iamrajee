@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Rajee!
-[![Twitter Follow](https://img.shields.io/twitter/follow/i_am_rajee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fi_am_rajee&screen_name=i_am_rajee)
 ![GIF](https://github.com/iamrajee/iamrajee/raw/master/bio_final.gif)
 <!--
 - 🔭 I’m currently working on ...
@@ -13,7 +12,7 @@
 [<img align="left" alt="@i_am_rajee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/i_am_rajee)
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rajendra-singh-6b0b3a13a)
 [<img align="left" alt="@i_am__rajee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/i_am__rajee/)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/i_am_rajee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fi_am_rajee&screen_name=i_am_rajee)
 <br />
 <!--
 ### Languages and Tools:
