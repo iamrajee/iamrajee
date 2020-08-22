@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Rajee!
 [![Twitter Follow](https://img.shields.io/twitter/follow/i_am_rajee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fi_am_rajee&screen_name=i_am_rajee)
-
+![GIF](https://github.com/iamrajee/iamrajee/raw/master/bio.gif)
+<!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-
+-->
 ### Connect with me:
 
 [<img align="left" alt="iamrajee.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://iamrajee.github.io/)
