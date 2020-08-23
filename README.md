@@ -12,7 +12,7 @@
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rajendra-singh-6b0b3a13a)
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured)
 [<img align="left" alt="@i_am__rajee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/i_am__rajee/)
-[<img align="left" alt="@i_am_rajee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/i_am_rajee)
+[<img align="right" alt="@i_am_rajee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/i_am_rajee)
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/i_am_rajee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fi_am_rajee&screen_name=i_am_rajee)-->
 <!--
 ### Languages and Tools:
