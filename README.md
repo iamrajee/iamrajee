@@ -11,13 +11,13 @@
  <summary><b>Connect with me: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="40"></b></summary>
 <br>
 -->
-<object align="center"> <!--style="max-width:500px;"-->
+<p align="center"> <!--style="max-width:500px;"-->
   <a href = "https://iamrajee.github.io/"><img  alt="iamrajee.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  HSPACE="10"/></a>
   <a href = "https://www.linkedin.com/in/rajendra-singh-6b0b3a13a"><img  alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  HSPACE="10"/></a>
   <a href = "https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured"><img  alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" HSPACE="10"/></a>
   <a href = "https://www.instagram.com/i_am__rajee/"><img  alt="@i_am__rajee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  HSPACE="10"/></a>
   <a href = "https://twitter.com/i_am_rajee"><img  alt="@i_am_rajee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  HSPACE="10"/></a>
-</object>
+</p>
 
 
 <!--</details>-->
@@ -54,10 +54,10 @@
 
 <br>
 
-<object width="100%" align="center"> <!--style="max-width:500px;"-->
+<p width="100%" align="center"> <!--style="max-width:500px;"-->
   <img src = "https://github-readme-stats.vercel.app/api?username=iamrajee&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&hide=jupyter notebook,html&theme=tokyonight">
-</object>
+</p>
 
 </details>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&layout=compact)](https://github.com/iamrajee/iamrajee)-->
