@@ -31,6 +31,6 @@
 
 <img align="left" width="52%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=iamrajee&count_private=true&show_icons=true&theme=cobalt" />
 <!--[![Github stats](https://github-readme-stats.vercel.app/api?username=iamrajee&count_private=true&show_icons=true&theme=cobalt)](https://github.com/iamrajee/iamrajee)-->
-<img align="right" width="43%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&layout=compact&theme=cobalt&hide=html,jupyternotebook" />
+<img align="right" width="43%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&layout=compact&theme=cobalt&hide=html,jupyter notebook" />
 </details>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&layout=compact)](https://github.com/iamrajee/iamrajee)-->
