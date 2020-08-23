@@ -63,7 +63,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&layout=compact)](https://github.com/iamrajee/iamrajee)-->
 
 <details> 
- <summary><b>Programming Stats</b>: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"></summary>
+ <summary><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"><b>Programming Stats</b>: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"></summary>
 
 <br>
 <!--START_SECTION:waka-->
@@ -109,7 +109,7 @@ Makefile                   7 repos             ███░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+<!--
 </details>
 <details> 
  <summary><p align="center"><center> <b>1</b> </center></p></summary>
@@ -117,3 +117,4 @@ Makefile                   7 repos             ███░░░░░░░░
 <details> 
  <summary><p align="center"> 2 </p></summary>
 </details> 
+-->
