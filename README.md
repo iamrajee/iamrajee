@@ -136,6 +136,7 @@ Makefile                   7 repos             ███░░░░░░░░
 ➡️ [more videos...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured)
 
 </details>
-
+<!--
 [![Visits Badge](https://badges.pufler.dev/visits/iamrajee/git-badges)](https://badges.pufler.dev)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iameajee.iameajee)
+-->
