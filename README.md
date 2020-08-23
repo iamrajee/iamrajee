@@ -33,4 +33,17 @@
 <!--[![Github stats](https://github-readme-stats.vercel.app/api?username=iamrajee&count_private=true&show_icons=true&theme=cobalt)](https://github.com/iamrajee/iamrajee)-->
 <img align="left" width="35%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&theme=cobalt&hide=html,jupyter notebook" />
 </details>
+
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=iamrajee&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&hide=jupyter notebook,html&theme=tokyonight">
+</p>
+
+</details>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&layout=compact)](https://github.com/iamrajee/iamrajee)-->
