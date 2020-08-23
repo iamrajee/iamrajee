@@ -121,7 +121,7 @@ Makefile                   7 repos             ███░░░░░░░░
 </details> 
 -->
 <details>
- <summary>📺<b> Latest YouTube Videos</b><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"></summary>
+ <summary><b> Latest YouTube Videos</b><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"></summary>
 
 <br>
 
@@ -129,3 +129,5 @@ Makefile                   7 repos             ███░░░░░░░░
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured)
+
+</details>
