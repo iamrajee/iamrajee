@@ -55,7 +55,7 @@
 <br>
 
 <p width="100%" align="center"> <!--style="max-width:500px;"-->
-  <img src = "https://github-readme-stats.vercel.app/api?username=iamrajee&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=iamrajee&show_icons=true&theme=radical&line_height=30">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&hide=jupyter notebook,html&theme=tokyonight">
 </p>
 
