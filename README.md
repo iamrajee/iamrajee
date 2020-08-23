@@ -6,6 +6,21 @@
 - 🤔 I’m looking for help with ...
 -->
 
+<details open>
+ <summary><b>Connect with me: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"></b>: </summary>
+
+<br>
+
+<p align = "center" > <!--style="max-width:500px;"-->
+  [<img align="left" alt="iamrajee.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://iamrajee.github.io/)
+  [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rajendra-singh-6b0b3a13a)
+  [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured)
+  [<img align="left" alt="@i_am__rajee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/i_am__rajee/)
+  [<img align="left" alt="@i_am_rajee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/i_am_rajee)
+</p>
+
+</details>
+
 ### Connect with me: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">
 
 [<img align="left" alt="iamrajee.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://iamrajee.github.io/)
@@ -39,7 +54,7 @@
 
 <br>
 
-<p align = "center" style="max-width:500px;">
+<p align = "center" > <!--style="max-width:500px;"-->
   <img src = "https://github-readme-stats.vercel.app/api?username=iamrajee&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&hide=jupyter notebook,html&theme=tokyonight">
 </p>
