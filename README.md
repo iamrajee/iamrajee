@@ -111,11 +111,9 @@ Makefile                   7 repos             ███░░░░░░░░
 <!--END_SECTION:waka-->
 
 </details>
-<!--
 <details> 
- <summary> 1 </summary>
+ <summary><center> 1 </center></summary>
 </details>
 <details> 
- <summary> 2 </summary>
+ <summary><center> 2 </center></summary>
 </details> 
--->
