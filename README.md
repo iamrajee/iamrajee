@@ -11,8 +11,8 @@
 
 <br>
 
-<p> <!--style="max-width:500px;"-->
-  <a href = "https://iamrajee.github.io/"><img  alt="iamrajee.github.io" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<p align="center"> <!--style="max-width:500px;"-->
+  <a href = "https://iamrajee.github.io/"><img  alt="iamrajee.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
   <a href = "https://www.linkedin.com/in/rajendra-singh-6b0b3a13a"><img  alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href = "https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured"><img  alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
   <a href = "https://www.instagram.com/i_am__rajee/"><img  alt="@i_am__rajee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
