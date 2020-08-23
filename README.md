@@ -6,11 +6,11 @@
 - 🤔 I’m looking for help with ...
 -->
 
+<!--
 <details open>
  <summary><b>Connect with me: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="40"></b></summary>
-
 <br>
-
+-->
 <p align="center"> <!--style="max-width:500px;"-->
   <a href = "https://iamrajee.github.io/"><img  alt="iamrajee.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  HSPACE="10"/></a>
   <a href = "https://www.linkedin.com/in/rajendra-singh-6b0b3a13a"><img  alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  HSPACE="10"/></a>
@@ -19,7 +19,8 @@
   <a href = "https://twitter.com/i_am_rajee"><img  alt="@i_am_rajee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  HSPACE="10"/></a>
 </p>
 
-</details>
+
+<!--</details>-->
 
 ### Connect with me: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">
 
