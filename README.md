@@ -52,6 +52,8 @@
 <details>
  <summary><b>Github Stats</b>: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"></summary>
 
+<br>
+
 <p width="100%" align="center"> <!--style="max-width:500px;"-->
   <img src = "https://github-readme-stats.vercel.app/api?username=iamrajee&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&hide=jupyter notebook,html&theme=tokyonight">
@@ -63,6 +65,7 @@
 <details> 
  <summary><b>Programming Stats</b>: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"></summary>
 
+<br>
 <!--START_SECTION:waka-->
 
 **I'm a night 🦉** 
@@ -108,3 +111,10 @@ Makefile                   7 repos             ███░░░░░░░░
 <!--END_SECTION:waka-->
 
 </details>
+
+<details> 
+ <summary> 1 </summary>
+</details>
+ <details> 
+ <summary> 2 </summary>
+</details> 
