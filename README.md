@@ -35,7 +35,7 @@
 
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary><b>Github Stats</b>: </summary>
 
 <br>
 
