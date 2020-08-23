@@ -29,8 +29,8 @@
 <details>
   <summary>Github Stats</summary>
 
-<img align="left" width="49%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=iamrajee&count_private=true&show_icons=true&theme=cobalt" />
+<img align="left" width="48%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=iamrajee&count_private=true&show_icons=true&theme=cobalt" />
 <!--[![Github stats](https://github-readme-stats.vercel.app/api?username=iamrajee&count_private=true&show_icons=true&theme=cobalt)](https://github.com/iamrajee/iamrajee)-->
-<img align="right" width="49%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&layout=compact" />
+<img align="right" width="48%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&layout=compact" />
 </details>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&layout=compact)](https://github.com/iamrajee/iamrajee)-->
