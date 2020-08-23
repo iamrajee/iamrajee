@@ -115,6 +115,6 @@ Makefile                   7 repos             ███░░░░░░░░
 <details> 
  <summary> 1 </summary>
 </details>
- <details> 
+<details> 
  <summary> 2 </summary>
 </details> 
