@@ -114,7 +114,8 @@ Makefile                   7 repos             ███░░░░░░░░
 <details> 
  <summary><p align="center"><center> <b>1</b> </center></p></summary>
 </details>
-<details> 
- <summary><p align="center"> 2 </p></summary>
+<details open> 
+ <summary>2/summary>
+HI
 </details> 
 -->
