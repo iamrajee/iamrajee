@@ -109,7 +109,6 @@ Makefile                   7 repos             ███░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<!--
 </details>
 <details> 
  <summary><p align="center"><center> <b>1</b> </center></p></summary>
@@ -118,4 +117,4 @@ Makefile                   7 repos             ███░░░░░░░░
  <summary>2/summary>
 HI
 </details> 
--->
+
