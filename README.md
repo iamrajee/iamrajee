@@ -126,6 +126,11 @@ Makefile                   7 repos             ███░░░░░░░░
 <br>
 
 <!-- YOUTUBE:START -->
+- [Pick place manipulation in presence of point cloud from 3D camera](https://www.youtube.com/watch?v=WAmr9yiQ7aw)
+- [Webinar on "Task-Level Motion Planning for Multi-Manipulator System" at IEEE Computer Society](https://www.youtube.com/watch?v=vn33KpQkLms)
+- [Writing IIT using two panda arms | ROS | Moveit | Rajendra Singh](https://www.youtube.com/watch?v=K7N7RMx9Q88)
+- [Velodyne VLP16 Data | ROS | Rajendra Singh](https://www.youtube.com/watch?v=2ATdtbVNyMo)
+- [Pouring Task using two panda arms(Joint Space planning) | ROS | Moveit | MTC | Rajendra Singh](https://www.youtube.com/watch?v=tS2U0AX3r_M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured)
