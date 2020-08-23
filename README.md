@@ -111,13 +111,12 @@ Makefile                   7 repos             ███░░░░░░░░
 <!--END_SECTION:waka-->
 </details>
 
+<!--
 <details> 
  <summary><p align="center"><center> <b>1</b> </center></p></summary>
 </details>
-
 <details open> 
  <summary>2</summary>
-
  HI
 </details> 
-
+-->
