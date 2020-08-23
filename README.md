@@ -50,7 +50,7 @@
 
 
 <details open>
- <summary><b>Github Stats</b>: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50"></summary>
+ <summary><b>Github Stats</b>: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"></summary>
 
 <br>
 
