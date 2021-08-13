@@ -19,7 +19,7 @@
   <a href = "https://twitter.com/i_am_rajee"><img  alt="@i_am_rajee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  HSPACE="10"/></a>
 </p>
 
-
+<br/>
 <p align="center">
  <a href="https://github.com/iamrajee/iamrajee/discussions/new"><img src="https://user-images.githubusercontent.com/25712145/129354568-09e745c5-9dab-4bbb-95ce-5aec5393ba85.gif" width="25%" /></a>
 </p>  
