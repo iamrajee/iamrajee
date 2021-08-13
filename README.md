@@ -55,7 +55,7 @@
 - [Pouring Task using two panda arms(Joint Space planning) | ROS | Moveit | MTC | Rajendra Singh](https://www.youtube.com/watch?v=tS2U0AX3r_M)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured)
+➡️ [more...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured)
 
 </details>
 <!--
