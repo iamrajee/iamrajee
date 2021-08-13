@@ -51,6 +51,7 @@
 </details>
 -->
 
+<div>
  
 <details>
  <summary><b>Github Stats</b><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"></summary>
@@ -114,6 +115,8 @@ Makefile                   7 repos             ███░░░░░░░░
 <!--END_SECTION:waka-->
 </details>
 
+
+
 <!--
 <details> 
  <summary><p align="center"><center> <b>1</b> </center></p></summary>
@@ -123,6 +126,9 @@ Makefile                   7 repos             ███░░░░░░░░
  HI
 </details> 
 -->
+
+</div>
+
 <details>
  <summary><b> Latest YouTube Videos</b><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"></summary>
 
