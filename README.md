@@ -21,7 +21,7 @@
 
 
 <p align="center">
- <a href="https://github.com/iamrajee/iamrajee/discussions/new"><img src="https://user-images.githubusercontent.com/25712145/129354568-09e745c5-9dab-4bbb-95ce-5aec5393ba85.gif" width="30%" /></a>
+ <a href="https://github.com/iamrajee/iamrajee/discussions/new"><img src="https://user-images.githubusercontent.com/25712145/129354568-09e745c5-9dab-4bbb-95ce-5aec5393ba85.gif" width="25%" /></a>
 </p>  
 
 
