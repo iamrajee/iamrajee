@@ -39,6 +39,7 @@
 -->
 
 <!-- 📖 -->
+<br/>
 <details open>
  <summary><b> Recent Research Work 📝</b></summary>
 
