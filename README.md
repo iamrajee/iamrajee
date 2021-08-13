@@ -1,3 +1,4 @@
+![Vanilla-1s-280px (4)](https://user-images.githubusercontent.com/25712145/129354862-3e729aa1-e326-4254-a2d5-692107b880cb.gif)
 <!--![Hi there wave I'm Rajee!](https://github.com/iamrajee/iamrajee/raw/master/bio_final.gif){:class="img-responsive"}-->
 <img alt="Hi there, I'm Rajee!" src="https://github.com/iamrajee/iamrajee/raw/master/bio_final.gif" width="100%"><!-- width="900" height="507" -->
 <!--
@@ -76,11 +77,10 @@
 ![Vanilla-1s-280px](https://user-images.githubusercontent.com/25712145/129354592-071b4763-9bd9-4972-9e3b-8c8b6044badb.gif)
 ![text (1)](https://user-images.githubusercontent.com/25712145/129354625-ab52f7bd-f0ed-4948-9518-e226b369d07c.gif) -->
 
+ <a href="https://github.com/iamrajee/iamrajee/discussions/new"><img align="center" src="https://user-images.githubusercontent.com/25712145/129354779-f7d3827d-3cdc-4565-aa20-d9799cc49783.gif" width="50%" /></a>
  
- ![Vanilla-3 2s-280px](https://user-images.githubusercontent.com/25712145/129354779-f7d3827d-3cdc-4565-aa20-d9799cc49783.gif)
-
- 
- 
+ <a href="https://github.com/iamrajee/iamrajee/discussions/new"><img align="center" src="https://user-images.githubusercontent.com/25712145/129354878-f140539e-49a6-4903-aac2-b3c17f96c44c.gif" width="50%" /></a>
+  
  
 </p>
 <!-- ![text](https://user-images.githubusercontent.com/25712145/129352304-0aa9c597-e749-4d78-b029-f4c0cd0d2333.gif) -->
