@@ -41,7 +41,7 @@
 <!-- 📖 -->
 <br/><br/>
 <details open>
- <summary><a href="https://github.com/iamrajee/iamrajee/discussions/new"><img src="https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif" width="30%"> </a></summary>
+ <summary><a href="https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured"><img src="https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif" width="30%"> </a></summary>
 
 <br/>
 
@@ -53,7 +53,7 @@
 - [Pouring Task using two panda arms(Joint Space planning) | ROS | Moveit | MTC | Rajendra Singh](https://www.youtube.com/watch?v=tS2U0AX3r_M)
 <!-- YOUTUBE:END -->
 
-➡️ [more...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured)
+<!-- ➡️ [more...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured) -->
 
 </details>
 <!--
