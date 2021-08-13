@@ -50,9 +50,7 @@
 <!-- YOUTUBE:START -->
 - [IEEE Webinar on "Task-Level Motion Planning for Multi-Manipulator System"](https://www.youtube.com/watch?v=vn33KpQkLms)
 - [Advanced Manipulation Task in 3D-PointCloud from Realsense D345](https://www.youtube.com/watch?v=WAmr9yiQ7aw)
-- [Writing IIT using two panda arms | ROS | Moveit | Rajendra Singh](https://www.youtube.com/watch?v=K7N7RMx9Q88)
-- [Velodyne VLP16 Data | ROS | Rajendra Singh](https://www.youtube.com/watch?v=2ATdtbVNyMo)
-- [Pouring Task using two panda arms(Joint Space planning) | ROS | Moveit | MTC | Rajendra Singh...](https://www.youtube.com/watch?v=tS2U0AX3r_M)
+- [3D-Slam with sensor fusion of Realsense D435 and Rplidar A208 data ...](https://youtu.be/apUApMAtDXw)
 <!-- YOUTUBE:END -->
 
 <!-- ➡️ [more...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured) -->
@@ -76,13 +74,13 @@
 </p> -->
 
 
-<p align="center">
- <a href="https://github.com/iamrajee/iamrajee/discussions/new"><img src="https://user-images.githubusercontent.com/25712145/129354779-f7d3827d-3cdc-4565-aa20-d9799cc49783.gif" width="50%" /></a>
-</p>
-
 <!-- <p align="center">
+ <a href="https://github.com/iamrajee/iamrajee/discussions/new"><img src="https://user-images.githubusercontent.com/25712145/129354779-f7d3827d-3cdc-4565-aa20-d9799cc49783.gif" width="50%" /></a>
+</p> -->
+
+<p align="center">
  <a href="https://github.com/iamrajee/iamrajee/discussions/new"><img src="https://user-images.githubusercontent.com/25712145/129354568-09e745c5-9dab-4bbb-95ce-5aec5393ba85.gif" width="50%" /></a>
-</p>   -->
+</p>  
 
 <!-- ![text](https://user-images.githubusercontent.com/25712145/129352304-0aa9c597-e749-4d78-b029-f4c0cd0d2333.gif) -->
 
