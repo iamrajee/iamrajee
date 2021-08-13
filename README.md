@@ -50,7 +50,7 @@
 <!-- YOUTUBE:START -->
 - [IEEE Webinar on "Task-Level Motion Planning for Multi-Manipulator System"](https://www.youtube.com/watch?v=vn33KpQkLms)
 - [Advanced Manipulation Task in 3D-PointCloud from Realsense D345](https://www.youtube.com/watch?v=WAmr9yiQ7aw)
-- [3D-Slam with sensor fusion of Realsense D435 and Rplidar A208 data ...](https://youtu.be/apUApMAtDXw)
+- [3D-Slam with sensor fusion of Realsense D435 and Rplidar A208 data...](https://youtu.be/apUApMAtDXw)
 <!-- YOUTUBE:END -->
 
 <!-- ➡️ [more...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured) -->
