@@ -42,7 +42,7 @@
 <details open>
  <summary><b> Recent Research Work 📝</b></summary>
 
-<br/>
+
 
 <!-- YOUTUBE:START -->
 - [Pick place manipulation in presence of point cloud from 3D camera](https://www.youtube.com/watch?v=WAmr9yiQ7aw)
