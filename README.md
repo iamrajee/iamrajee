@@ -41,7 +41,7 @@
 <!-- 📖 -->
 <br/><br/>
 <details open>
- <summary><b> Recent Research Work 📝</b></summary>
+ <summary><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="40"><b> Recent Research Work 📝</b></summary>
 
 <br/>
 
@@ -89,3 +89,7 @@
 ![Vanilla-1s-280px (1)](https://user-images.githubusercontent.com/25712145/129354590-62f5ea10-dac9-4689-bcd9-7392263d983c.gif)
 ![Vanilla-1s-280px](https://user-images.githubusercontent.com/25712145/129354592-071b4763-9bd9-4972-9e3b-8c8b6044badb.gif)
 ![text (1)](https://user-images.githubusercontent.com/25712145/129354625-ab52f7bd-f0ed-4948-9518-e226b369d07c.gif) -->
+
+![Vanilla-1 3s-280px](https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif)
+![Vanilla-0 5s-280px (1)](https://user-images.githubusercontent.com/25712145/129356169-e16c91ab-fb5b-41ce-beae-e0491f1f0980.gif)
+
