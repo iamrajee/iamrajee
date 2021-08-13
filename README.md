@@ -61,4 +61,4 @@
 -->
 
 
-<a href="https://github.com/iamrajee/iamrajee/discussions/new"><p><h1 align="center"/>Ask me anything!</h1><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"></p></a>
+<a href="https://github.com/iamrajee/iamrajee/discussions/new"><p><h1 align="center">Ask me anything!</h1><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"></p></a>
