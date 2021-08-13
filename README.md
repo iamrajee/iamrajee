@@ -70,7 +70,7 @@
 <!-- <a href="https://github.com/iamrajee/iamrajee/discussions/new"><p align="center">**Ask me anything!**<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"/></p></a> -->
 
 <p align="center">
-<a href="https://github.com/iamrajee/iamrajee/discussions/new"><img align="center" src="https://user-images.githubusercontent.com/25712145/129352304-0aa9c597-e749-4d78-b029-f4c0cd0d2333.gif" width="50%" /></a>
+<a href="https://github.com/iamrajee/iamrajee/discussions/new"><img align="center" src="https://user-images.githubusercontent.com/25712145/129352304-0aa9c597-e749-4d78-b029-f4c0cd0d2333.gif" width="30%" /></a>
 </p>
 
 
