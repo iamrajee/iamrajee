@@ -64,31 +64,29 @@
 <br/><br/>
 <!-- <details open>
  <summary> -->
-<!--   <a href="https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured"><img src="https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif" width="30%"> </a> -->
+  <a href="https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured"><img src="https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif" width="30%"> </a>
 <!--  </summary> -->
 
 <!-- <br/> -->
 
 <!-- YOUTUBE:START -->
-<!-- - [IEEE Webinar on "Task-Level Motion Planning for Multi-Manipulator System"](https://www.youtube.com/watch?v=vn33KpQkLms)
+- [IEEE Webinar on "Task-Level Motion Planning for Multi-Manipulator System"](https://www.youtube.com/watch?v=vn33KpQkLms)
 - [Advanced Manipulation Task in 3D-PointCloud from Realsense D345](https://www.youtube.com/watch?v=WAmr9yiQ7aw)
-- [3D-Slam with sensor fusion of Realsense D435 and Rplidar A208 data...](https://youtu.be/apUApMAtDXw) -->
+- [3D-Slam with sensor fusion of Realsense D435 and Rplidar A208 data...](https://youtu.be/apUApMAtDXw)
 <!-- YOUTUBE:END -->
 
 <!-- ➡️ [more...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured) -->
 
 <!-- </details> -->
  
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured"><img src="https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif" width="30%"> </a>
 <p>
-<!-- YOUTUBE:START -->
 - [IEEE Webinar on "Task-Level Motion Planning for Multi-Manipulator System"](https://www.youtube.com/watch?v=vn33KpQkLms)
 - [Advanced Manipulation Task in 3D-PointCloud from Realsense D345](https://www.youtube.com/watch?v=WAmr9yiQ7aw)
 - [3D-Slam with sensor fusion of Realsense D435 and Rplidar A208 data...](https://youtu.be/apUApMAtDXw)
-<!-- YOUTUBE:END -->
 </p>
-</p>
+</p> -->
  
 <!--
 [![Visits Badge](https://badges.pufler.dev/visits/iamrajee/git-badges)](https://badges.pufler.dev)
