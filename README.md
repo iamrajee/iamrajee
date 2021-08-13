@@ -40,8 +40,10 @@
 
 <!-- 📖 -->
 <br/><br/>
-<details open>
- <summary><a href="https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured"><img src="https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif" width="30%"> </a></summary>
+<!-- <details open>
+ <summary> -->
+  <a href="https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured"><img src="https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif" width="30%"> </a>
+<!--  </summary> -->
 
 <br/>
 
@@ -55,7 +57,12 @@
 
 <!-- ➡️ [more...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured) -->
 
-</details>
+<!-- </details> -->
+ 
+ 
+ 
+ 
+ 
 <!--
 [![Visits Badge](https://badges.pufler.dev/visits/iamrajee/git-badges)](https://badges.pufler.dev)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iameajee.iameajee)
