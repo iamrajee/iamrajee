@@ -41,7 +41,7 @@
 <!-- 📖 -->
 <br/><br/>
 <details open>
- <summary><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="40"><b> Recent Research Work 📝</b></summary>
+ <summary><img align="left" src="https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif" width="40%"><b> Recent Research Work 📝</b></summary>
 
 <br/>
 
