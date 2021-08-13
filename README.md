@@ -26,12 +26,12 @@
 <!-- <p align="center">
 <a href="https://github.com/iamrajee/iamrajee/discussions/new"><img align="center" src="https://user-images.githubusercontent.com/25712145/129352304-0aa9c597-e749-4d78-b029-f4c0cd0d2333.gif" width="20%" /></a>
 </p> -->
-<p align="center">
-<a href="https://github.com/iamrajee/iamrajee/discussions/new"><img align="center" src="https://user-images.githubusercontent.com/25712145/129359092-cf08bf9c-0372-4fdb-b1de-a6690f79c9ba.gif" width="20%" /></a>
-</p>
 <!-- <p align="center">
-<a href="https://github.com/iamrajee/iamrajee/discussions/new"><img align="center" src="https://user-images.githubusercontent.com/25712145/129359421-ff977095-a173-4534-883b-ce50d5b1cdd8.gif" width="20%" /></a>
+<a href="https://github.com/iamrajee/iamrajee/discussions/new"><img align="center" src="https://user-images.githubusercontent.com/25712145/129359092-cf08bf9c-0372-4fdb-b1de-a6690f79c9ba.gif" width="20%" /></a>
 </p> -->
+<p align="center">
+<a href="https://github.com/iamrajee/iamrajee/discussions/new"><img align="center" src="https://user-images.githubusercontent.com/25712145/129359421-ff977095-a173-4534-883b-ce50d5b1cdd8.gif" width="20%" /></a>
+</p>
 
 <!-- ![text (3)](https://user-images.githubusercontent.com/25712145/129359092-cf08bf9c-0372-4fdb-b1de-a6690f79c9ba.gif)
 ![text (2)](https://user-images.githubusercontent.com/25712145/129359142-007dde47-50d8-4a96-9587-8360cb8a00f4.gif) -->
