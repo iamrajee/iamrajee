@@ -41,7 +41,7 @@
 <!-- 📖 -->
 <br/><br/>
 <details open>
- <summary><b>📝 <img src="https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif" width="30%"> </b></summary>
+ <summary><a href="https://github.com/iamrajee/iamrajee/discussions/new"><img src="https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif" width="30%"> </a></summary>
 
 <br/>
 
