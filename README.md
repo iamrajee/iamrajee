@@ -20,6 +20,9 @@
 </p>
 
 
+<a href = "https://iamrajee.github.io/"><p align="center"/></a>
+<a href="https://github.com/iamrajee/iamrajee/discussions/new"><p align="center"/>Ask me anything!</p></a>
+
 <!--</details>-->
 <!--
 ### Connect with me: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="50">
