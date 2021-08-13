@@ -45,7 +45,7 @@
   <a href="https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured"><img src="https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif" width="30%"> </a>
 <!--  </summary> -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- YOUTUBE:START -->
 - [Pick place manipulation in presence of point cloud from 3D camera](https://www.youtube.com/watch?v=WAmr9yiQ7aw)
