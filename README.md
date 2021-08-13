@@ -51,12 +51,9 @@
 </details>
 -->
 
-<!-- <b>Github Stats</b><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"> 
-<b>Programming Stats</b><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"> -->
-
 
 <details>
- <summary></summary>
+ <summary><b>Github Stats</b><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"> </summary>
 
 <br>
 
@@ -69,7 +66,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&layout=compact)](https://github.com/iamrajee/iamrajee)-->
 
 <details> 
- <summary></summary>
+ <summary><b>Programming Stats</b><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="30"></summary>
 
 <br>
 <!--START_SECTION:waka-->
