@@ -9,7 +9,7 @@
 <!--
 <details open>
  <summary><b>Connect with me: <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="40"></b></summary>
-<br>
+<br/>
 -->
 <p align="center"> <!--style="max-width:500px;"-->
   <a href = "https://iamrajee.github.io/"><img  alt="iamrajee.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  HSPACE="10"/></a>
@@ -42,7 +42,7 @@
 <details open>
  <summary><b> Recent Research Work 📝</b></summary>
 
-<br>
+<br/>
 
 <!-- YOUTUBE:START -->
 - [Pick place manipulation in presence of point cloud from 3D camera](https://www.youtube.com/watch?v=WAmr9yiQ7aw)
@@ -52,7 +52,7 @@
 - [Pouring Task using two panda arms(Joint Space planning) | ROS | Moveit | MTC | Rajendra Singh](https://www.youtube.com/watch?v=tS2U0AX3r_M)
 <!-- YOUTUBE:END -->
 
-  ➡️ [more...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured)
+➡️ [more...](https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured)
 
 </details>
 <!--
