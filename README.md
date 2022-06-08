@@ -43,11 +43,11 @@
 <!-- ![text (6)](https://user-images.githubusercontent.com/25712145/129359995-e2dc419f-9fc1-4a63-a7c1-91e9c91823d2.gif) -->
 
 
-<!-- <details>
+<details>
   <summary>Github Stats</summary>
 <img align="left" width="60%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=iamrajee&count_private=true&show_icons=true&theme=cobalt" />
 <img align="left" width="35%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajee&theme=cobalt&hide=html,jupyter notebook" />
-</details> -->
+</details>
 
 
 <!--
