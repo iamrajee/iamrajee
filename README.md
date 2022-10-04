@@ -84,9 +84,12 @@
 <!-- <p align="center">
   <a href="https://www.youtube.com/channel/UCzNSEsxHfpq_84-EkU9CRnQ/featured"><img src="https://user-images.githubusercontent.com/25712145/129356158-dd56830a-9182-4ca0-b88e-ef7f4f8b14b3.gif" width="30%"> </a>
 <p>
+- [Development of an Unmanned Aerial Vehicle for Remote Live Streaming on Web Dashboard | i-Mace 2022](https://drive.google.com/file/d/1tj7Dvc-AdH7CeiItUbWhoddw2xvdMLdW/view?usp=sharing)
+- [International conference on innovation in Mechanical & Civil Engineering, "Design and Development of an Auto-inflatable Airbag as the Failsafe System of Unmanned Aerial Vehicle"](https://drive.google.com/file/d/1AGx6JWGLm59PFdGJinD4S6lf378R_jGM/view?usp=sharing)
 - [IEEE Webinar on "Task-Level Motion Planning for Multi-Manipulator System"](https://www.youtube.com/watch?v=vn33KpQkLms)
 - [Advanced Manipulation Task in 3D-PointCloud from Realsense D345](https://www.youtube.com/watch?v=WAmr9yiQ7aw)
 - [3D-Slam with sensor fusion of Realsense D435 and Rplidar A208 data...](https://youtu.be/apUApMAtDXw)
+- [more...](https://iamrajee.github.io/seminar/)
 </p>
 </p> -->
  
